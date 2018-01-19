@@ -10,16 +10,25 @@ Created during Week 5 of UNH Coding Bootcamp. The challenge was to create a time
 Start screen, click start button to start game.
 
 
-![](images/startscreen.png)
+![](assets/images/startscreen.png)
 
 
 Question Displays time left, question number, and highlights answers on hover.
 
+![](assets/images/questiondisplay.png)
+
 Answer-Correct
 
+![](assets/images/correctanswer.png)
+
 Answer-Wrong Displays answer if answered incorrectly
+![](assets/images/wronganswer.png)
+
+Unanswered display
+![](assets/images/unanswered.png)
 
 Final Scoreboard
+![](assets/images/scoreboard.png)
 
 ## Prerequisites
 - Bootstrap: visit http://getbootstrap.com/getting-started/ for the CDN and link in html
@@ -27,8 +36,8 @@ Final Scoreboard
 
 ## Built With
 
-* [Sublime Text]
-* [Bootstrap]
+* Sublime Text
+* Bootstrap
 
 
 ## Authors
