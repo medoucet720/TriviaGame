@@ -13,7 +13,7 @@ Start screen, click start button to start game.
 ![](assets/images/startscreen.png)
 
 
-Question Displays time left, question number, and highlights answers on hover.
+Question Displays time left, question number, and answers.
 
 ![](assets/images/questiondisplay.png)
 
